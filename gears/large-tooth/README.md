@@ -1,9 +1,9 @@
-Meccano large tooth gears
-16 DP large toothed gears
+Meccano large tooth 16 DP gears
 
-Teeth | Part | Description | Creator
------ | ---- | ----------- | ------
- | | Worms left and right handed | Grendel
- | 167a | Large tooth quadrant | Grendel
-16 | 167b | Large tooth pinion | Grendel
-96 | | Gear ring | Grendel
+Folder | Description
+------ | -----------
+gear-ring | Gear ring
+pinion | Large tooth pinion
+quadrant | Large tooth quadrant
+rack | Rack strips
+worm | Worms left and right handed
