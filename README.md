@@ -6,6 +6,7 @@ Folder | Description
 ------ | -----------
 gears | Assorted gears, large and fine tooth, bevels, multipurpose and rings
 wheel | Road wheels
+Flanged Wheels | Flanged Rail Wheels
 
 Unsorted files are stored here temporarily
 
