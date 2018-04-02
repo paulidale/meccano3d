@@ -3,7 +3,7 @@ Meccano mesh gears
 
 Teeth | Part | Description | Creator
 ----- | ---- | ----------- | ------
-12 | 26c | Pinion (early clockwork motors) | Grendel
+12 | 25c | Pinion (early clockwork motors) | Grendel
 13 | 25r | Pinion (later clockwork motors) | Grendel
 14 | | Pinion | Grendel
 15 | 26c | Pinion (stardard) | Grendel
@@ -29,9 +29,9 @@ Teeth | Part | Description | Creator
 35 | | Pinion | Grendel
 36 | 27c | Gear | Grendel
 37 | | Gear | Grendel
-38 | | Gear (standard) | Grendel
+38 | 31 | Gear (standard) | Grendel
 39 | | Gear | Grendel
-40 | | Gear (standard, early obsolete) | Grendel
+40 | 31 | Gear (standard, early obsolete) | Grendel
 41 | | Gear | Grendel
 42 | | Gear | Grendel
 43 | | Gear | Grendel
