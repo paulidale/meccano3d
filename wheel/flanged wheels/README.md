@@ -1,7 +1,7 @@
 This directory contains flanged wheels of varying kinds.
 
 Kind | Description | by
----- | ----------- |
+---- | ----------- | ---
 2" Flanged Wheel | a 2" flanged railway wheel | Grendel
 2" Flanged Wheel with holes | 2" flanged wheel with additional holes | Grendel
 4" Flanged Wheel | a 4" flanged railway wheel | Grendel
