@@ -6,6 +6,7 @@ Folder | Description
 ------ | -----------
 bearings | Ball bearings based around part 168
 crane sprocket | Sprockets and idlers for large track system
+electrical | Elektrikit and Electronics sets parts
 gears | Assorted gears, large and fine tooth, bevels, multipurpose and rings
 hinges | Meccano hinge pieces sans hinge pin
 wheel | All manner of wheels
@@ -39,3 +40,4 @@ Part | Description
 167b | [Large Tooth Pinion 16 teeth](gears/large-tooth/pinion)
 167c | [Large Tooth Pinion 16 teeth Tri-flat](gears/large-tooth/pinion)
 187b | [Road Wheel 4&frac14;"](wheel/road)
+520 | rectangular coil former
