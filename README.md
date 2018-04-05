@@ -40,4 +40,4 @@ Part | Description
 167b | [Large Tooth Pinion 16 teeth](gears/large-tooth/pinion)
 167c | [Large Tooth Pinion 16 teeth Tri-flat](gears/large-tooth/pinion)
 187b | [Road Wheel 4&frac14;"](wheel/road)
-520 | rectangular coil former
+520 | [rectangular coil former](electrical)
