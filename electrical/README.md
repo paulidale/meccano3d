@@ -2,6 +2,6 @@ A collection of Elektrikit and Electronic set parts.
 
 Part | Description | By
 :--- | :--- | :---
-520 | rectangular coil former | mecparts
-522 | cylindrical coil former | mecparts
-
+520 | Rectangular Coil former | mecparts
+522 | Cylindrical Coil former | mecparts
+606 | Relay fixing plate | mecparts
