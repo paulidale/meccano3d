@@ -9,6 +9,7 @@ crane sprocket | Sprockets and idlers for large track system
 electrical | Elektrikit and Electronics sets parts
 gears | Assorted gears, large and fine tooth, bevels, multipurpose and rings
 hinges | Meccano hinge pieces sans hinge pin
+modern_plastic | Modern plastic parts
 wheel | All manner of wheels
 
 
@@ -44,4 +45,5 @@ Part | Description
 520 | [Rectangular Coil former](electrical)
 522 | [Cylindrical Coil former](electrical)
 606 | [Relay fixing plate](electrical)
+B006 | [Sprocket for rubber track](modern_plastic)
 C962 | [Cam](modern_plastic)
