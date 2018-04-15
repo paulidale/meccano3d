@@ -46,4 +46,5 @@ Part | Description
 522 | [Cylindrical Coil former](electrical)
 606 | [Relay fixing plate](electrical)
 B006 | [Sprocket for rubber track](modern_plastic)
+B015 | [Polygonal Bracket](modern_plastic)
 C962 | [Cam](modern_plastic)
