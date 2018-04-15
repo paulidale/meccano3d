@@ -3,4 +3,5 @@ A collection of modern plastic parts. Some of these parts only show up in one or
 Part | Description | By
 :--- | :--- | :---
 B006 | Sprocket for rubber track | mecparts
+B015 | B015 Polygonal Bracket | mecparts
 C962 | Cam | mecparts
