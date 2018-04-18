@@ -19,12 +19,13 @@
 // Wheel 1 tooth count: -19
 // Wheel 1 Center Hole diameter: 0
 // Wheel 2 tooth count: 4
-// Wheel 2 tooth count: 0
+// Wheel 2 Center Hole diameter: 0
 // Show: Wheel 1 only
 // Rotation steps per tooth angle: 10
 // Number of segments: 30
 //
 // V1.0 April 13, 2018 WH - best guess dimensions
+// V1.1 April 18, 2018 WH - minor comment change
 //
 $fn=40;
 //
