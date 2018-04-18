@@ -18,8 +18,8 @@ For anyone else wanting to create additional gear outlines, here's the
 settings that I changed in the gear builder:
 
 Circular pitch:
-For the 38 DP gears, it's 2.09990666845 (25.4*pi/38)
-For the 37.5 DP gears, it's 2.127905424 (25.4*pi/37.5)
+For the 38 DP gears, it's 2.09990666845 (25.4 x pi / 38)
+For the 37.5 DP gears, it's 2.127905424 (25.4 x pi / 37.5)
 
 I've used 0.25 for clearance and and 0.05 backlash (but that may be
 something that you'll have to tweak for your particular printer setup),
