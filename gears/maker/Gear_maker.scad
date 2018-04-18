@@ -1,6 +1,7 @@
 // Meccano spur gear maker
 //
 // v1.0 - Apr 2, 2018 - initial release SWH
+// v1.1 - Apr 18, 2018 - code clean up and gear outline updates SWH
 //
 // Here's the 5 things you (may) need to set
 //
@@ -8,10 +9,33 @@
 // gear_thickness: how many mm thick the gear disc should be
 // dxf_path: the directory where the gear outline DXF files are
 // boss_height: how many mm high above the gear the boss should extend.
-// triflat: true for a triflat axle, false for a round axle
+// standard,triflat,twoflat: set exactly 1 of these 3 to true (others
+// to false) to get either a standard axle hole, a triflat axle hole,
+// or a two flat axle hole for the 28BYJ-48 stepper motor.
 //
 // It should go without saying that in order for this to work, a DXF
 // outline file must exist to match the number of teeth you've chosen!
+//
+// The parameters for the gear outline maker at
+// <http://hessmer.org/gears/InvoluteSpurGearBuilder.html>
+// are:
+//
+// Circular pitch: 2.09990666845 for 38DP gears,
+//                 2.127905424 for 37.5DP gear (15t,25t,50t,60t and the like)
+// Pressure angle: 20
+// Clearance: 0.25
+// Backlash: 0.05
+// Profile shift: 0
+// Wheel 1 tooth count: desired # of teeth
+// Wheel 1 Center Hole diameter: 0
+// Wheel 2 tooth count: whatever you like (I pick something that will mesh at standard centres)
+// Wheel 2 Center Hole diameter:: 0
+// Show: Wheel 1 only
+// Rotation steps per tooth angle: 10
+// Number of segments: 30
+//
+// Depending on your printer's accuracy and tolerances, you may have to fiddle
+// with Clearance and Backlash to get the gear to mesh properly. I did!
 //
 // imperial/metric constants
 //
@@ -19,7 +43,8 @@ inch = 25.4;
 half_inch = inch/2;
 quarter_inch = inch/4;
 //
-$fn=100;                // let's have nice round circles by default
+$fn=32;                 // let's have nice round circles by default
+eps=0.04;               // tiny number to eliminate coincident faces
 //
 // parametric values
 // ------------------------------------------------------------
@@ -29,13 +54,19 @@ teeth = 57;             // 15, 19, 25, 38, 50, 57, 95, 114, 121, 133
                         // create your own gear outline at
                         // http://hessmer.org/gears/InvoluteSpurGearBuilder.html
 gear_thickness = inch/8;
-dxf_path = "/home/pi/Documents/3D/Things/Meccano/Gear_maker/Gear_outline_files/";
-boss_height = inch/8; // set to zero for no boss
-triflat = true;
+boss_height = inch/8;   // set to zero for no boss
 boss_dia = 3/8*inch;
 
-axle_dia = 0.167*inch;  // sized to pass a standard Meccano axle rod
-flats_dia = 3.95;       // experimentally determined for a triflat axle... YMMV
+standard = false;       // ONLY SET ONE OF THESE THREE TO TRUE
+triflat = true;         // THE OTHER TWO MUST BE FALSE
+twoflat = false;        //
+
+triaxle_round_dia = 0.172*inch;// sized to fit a standard Meccano triaxle rod
+triaxle_flats_dia = 3.76;      // ... YMMV
+axle_dia = 0.167*inch;         // sized to pass a standard Meccano axle rod
+
+twoflats_round_dia = 5.34;	     // for 28BYJ-48 stepper motors
+twoflats_flat_dia = 3.34;      // (see Amazon or eBay to buy)
 //
 // ------------------------------------------------------------
 //
@@ -55,7 +86,8 @@ if ( teeth < 57 ) {
 // at the point [x,y,z]
 //
 module tube (length, diameter, x=0, y=0, z=0) {
-    translate([x,y,z]) cylinder(length, r=diameter/2);
+    translate([x,y,z-eps])
+      cylinder(h=length+2*eps, r=diameter/2);
 }
 
 // ------------------------------------------------------------
@@ -66,12 +98,20 @@ module tube (length, diameter, x=0, y=0, z=0) {
 // It's currently set up to create either tri-flat or round axle holes.
 //
 module axle(zlength, x=0, y=0, z=0) {
-    if( triflat ) {
+    if( twoflat ) {
         intersection() {
-            tube(zlength,axle_dia,x,y,z);
+            tube(zlength,twoflats_round_dia,x,y,z);
+            translate([x,y,z-eps])
+                linear_extrude(height=zlength+2*eps)
+                   square([twoflats_round_dia,twoflats_flat_dia],center=true);
+        }
+    } else if( triflat ) {
+        intersection() {
+            tube(zlength,triaxle_round_dia,x,y,z);
             // a circle with 3 sides is... you guessed, a triangle!
-            linear_extrude(height=zlength) 
-                translate([x,y,z]) circle(flats_dia,$fn=3);
+            translate([x,y,z-eps]) 
+                linear_extrude(height=zlength+2*eps) 
+                    circle(triaxle_flats_dia,$fn=3);
         }
     } else {
         tube(zlength,axle_dia,x,y,z);
@@ -114,17 +154,17 @@ module do_rings( hole_ring_angle, rings ) {
 // holes: number of holes (or holes+slots) in each ring. defaults to 8
 //
 module spur_gear(teeth,rings=0,num_holes=8) {
-    gear_outline = str(dxf_path,teeth,"teeth.dxf");
+    gear_outline = str("Gear_outline_files/",teeth,"teeth.dxf");
     collar_width = 1; // a little angled collar between the boss and disc to add strength
     difference() {
         union() {
             linear_extrude(height=gear_thickness)
                 import(gear_outline,convexity=10);
             if( boss_height>0 ) {
-                tube(boss_height, boss_dia, 0, 0, gear_thickness);
+                tube(boss_height-eps, boss_dia, 0, 0, gear_thickness);
                 if( boss_height>=collar_width ) {
-                    translate([0,0,gear_thickness])
-                        cylinder(h=collar_width,d1=boss_dia+2*collar_width,d2=boss_dia);
+                    translate([0,0,gear_thickness-eps])
+                        cylinder(h=collar_width+eps,d1=boss_dia+2*collar_width,d2=boss_dia);
                 }
             }
         }
