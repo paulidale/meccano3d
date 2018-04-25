@@ -26,8 +26,10 @@
 //
 // V1.0 April 13, 2018 WH - best guess dimensions
 // V1.1 April 18, 2018 WH - minor comment change
+// V1.2 April 24, 2018 WH - dimensions from actual part - Thanks to Newspaniard
 //
 $fn=40;
+eps=0.05;
 //
 // parameters
 //
@@ -41,43 +43,34 @@ inch=25.4;
 axle_id=0.168*inch;
 
 module B006_sprocket(intermittent_rings=true) {
-  //
-  // You will need to change dxf_path to point to where the
-  // 19teeth_interior.dxf file ends up on your system.
-  //
-  dxf_path="/home/pi/Documents/3D/Things/Meccano/modern_plastic/B006/";
-  //
-  // As I didn't have a B006 to measure from, pretty much all the
-  // dimensions are best guesses from a couple of photographs posted
-  // to the Spanner II mailing list years back, and measurements and
-  // calculations from 19 tooth pinions and the rubber track.
-  //
-  tube_od=0.647*inch;
+
+  tube_od=0.655*inch;
   tube_id=0.571*inch;
   tube_h=1*inch;
 
-  top_recess_h=8.35;
-  bottom_recess_h=8.5;
+  recess_h=0.320*inch; // 8.35;
 
-  tread_w=0.380*inch;
+  tread_w=0.435*inch;  // treads are actually 3/8" (0.375")
 
-  ring_d=0.860*inch;
-  ring_h=0.085*inch;
+  ring_d=0.900*inch; // 0.860*inch;
+  ring_h=0.060*inch; // 0.085*inch;
   ring_w=(ring_d-tube_od)/2;
 
   ring1_height=(tube_h-tread_w-2*ring_h)/2;
   ring2_height=ring1_height+ring_h+tread_w;
 
-  spoke_w=0.055*inch;
+  spoke_w1=0.085*inch; // 0.055*inch;
+  spoke_w2=0.100*inch; // 0.055*inch;
   spoke_angle=45;
 
-  gear_h=3/32*inch;
+  gear_h=1/8*inch;
 
   axle_od=axle_id+2;
 
-  cross_h=2;
-  cross_w=1.5;
-  cross_d=tube_id-3;
+  cross_h=0.130*inch; // 2;
+  cross_w=0.035*inch; // 1.5;
+  cross_d=tube_id-0.12*inch; // 3;
+  cross_h_offset=0.036*inch;
 
   union() {
     difference() {
@@ -118,44 +111,61 @@ module B006_sprocket(intermittent_rings=true) {
             }
           }
         // tread spokes
-        for( angle=[0:spoke_angle:180-spoke_angle]) {
-          translate([0,0,tube_h/2])
+        for( angle=[0:spoke_angle:360-spoke_angle]) {
+          linear_extrude(height=tube_h)
             rotate([0,0,angle])
-              cube([ring_d,spoke_w,tube_h],center=true);
+              translate([0,tube_od/2,0])
+                polygon([
+                  [-spoke_w2/2,-0.1],
+                  [spoke_w2/2,-0.1],
+                  [spoke_w1/2,(ring_d-tube_od)/2],
+                  [-spoke_w1/2,(ring_d-tube_od)/2],
+                  [-spoke_w2/2,-0.1]
+                ]);           
         }
       }
       // remove bottom recess
-      cylinder(d=tube_id,h=bottom_recess_h);
+      translate([0,0,-eps])
+        cylinder(d=tube_id,h=recess_h+eps);
       // remove bottom cross material
-      translate([0,0,bottom_recess_h])
+      translate([0,0,recess_h-eps])
         difference() {
-          cylinder(d=cross_d,h=cross_h);
-          cylinder(d=axle_od,h=cross_h);
-          translate([0,0,cross_h])
-            cube([cross_d,cross_w,cross_h],center=true);
-          translate([0,0,cross_h])
-            cube([cross_w,cross_d,cross_h],center=true);
+          cylinder(d=cross_d,h=cross_h+eps);
+          cylinder(d=axle_od,h=cross_h+eps);
+          translate([0,0,cross_h/2+cross_h_offset])
+            union() {
+              cube([cross_d,cross_w,cross_h],center=true);
+              cube([cross_w,cross_d,cross_h],center=true);
+            }
         }
       // remove top recess
-      translate([0,0,tube_h-top_recess_h])
-        cylinder(d=tube_id,h=top_recess_h);
+      translate([0,0,tube_h-recess_h])
+        cylinder(d=tube_id,h=recess_h+eps);
       // remove top cross material
-      translate([0,0,tube_h-top_recess_h-cross_h])
+      translate([0,0,tube_h-recess_h-cross_h])
         difference() {
-          cylinder(d=cross_d,h=cross_h);
-          cylinder(d=axle_od,h=cross_h);
-          cube([cross_d,cross_w,cross_h],center=true);
-          cube([cross_w,cross_d,cross_h],center=true);
+          cylinder(d=cross_d,h=cross_h+eps);
+          cylinder(d=axle_od,h=cross_h+eps);
+          translate([0,0,cross_h/2-cross_h_offset])
+            union() {
+              cube([cross_d,cross_w,cross_h],center=true);
+              cube([cross_w,cross_d,cross_h],center=true);
+            }
         }
       // remove axle
       cylinder(d=axle_id,h=tube_h);
     }
-    // add in 19 tooth gear ring
-    translate([0,0,tube_h-top_recess_h])
-      linear_extrude(height=gear_h)
+    // add in 19 tooth gear rings
+    translate([0,0,tube_h-recess_h-eps])
+      linear_extrude(height=gear_h+eps)
         intersection() {
-          gear_outline=str(dxf_path,"B006_19teeth_interior.dxf");
-          import(gear_outline,convexity=10);
+          import("B006_19teeth_interior.dxf",convexity=10);
+          circle(r=tube_od/2);
+        }
+    translate([0,0,recess_h-gear_h])
+      linear_extrude(height=gear_h+eps)
+        intersection() {
+          import("B006_19teeth_interior.dxf",convexity=10);
           circle(r=tube_od/2);
         }
   }
