@@ -3,3 +3,5 @@ A collection of custom parts. Here you will find adapters for non Meccano parts,
 Prefix | Description | By
 :--- | :--- | :---
 Arduino_mounting_plate | An adapter plate for mounting an Arduino Uno | mecparts
+28BYJ-48_mounting_plate | An adapter plate for mounting a 28BYJ-48 stepper motor | mecparts
+
