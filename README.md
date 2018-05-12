@@ -50,3 +50,5 @@ B006 | [Sprocket for rubber track](modern_plastic)
 B015 | [Polygonal Bracket](modern_plastic)
 C962 | [Cam](modern_plastic)
 Arduino_mounting_plate | [Arduino Uno mounting plate](custom_parts)
+28BYJ-48_mounting_plate | [28BYJ-48 mounting plate](custom_parts)
+
