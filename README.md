@@ -10,7 +10,9 @@ custom_parts | Adapters for non Meccano parts and new spins on existing Meccano 
 electrical | Elektrikit and Electronics sets parts
 gears | Assorted gears, large and fine tooth, bevels, multipurpose and rings
 hinges | Meccano hinge pieces sans hinge pin
+junior | Plastic/Junior parts
 modern_plastic | Modern plastic parts
+special | Part with specific special uses
 wheel | All manner of wheels
 
 
@@ -38,6 +40,7 @@ Part | Description
 31 | [Gear 38 teeth](gears/standard)
 31 | [Gear 40 teeth obsolete](gears/standard)
 30 | [Bevel Gear &frac78;"](gears/bevel)
+131 | [Dredger Bucker](special/dredger-bucket)
 167a | [Large Tooth Quadrant](gears/large-tooth/quadrant)
 167b | [Large Tooth Pinion 16 teeth](gears/large-tooth/pinion)
 167c | [Large Tooth Pinion 16 teeth Tri-flat](gears/large-tooth/pinion)
