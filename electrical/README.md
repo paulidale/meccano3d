@@ -8,3 +8,4 @@ Part | Description | By
 522 | Cylindrical Coil former | mecparts
 564 | Insulating spacer (no threads) | mecparts
 606 | Relay fixing plate | mecparts
+    | Microswitch mounting plate | Stephen Terrel
