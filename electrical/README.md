@@ -8,4 +8,4 @@ Part | Description | By
 522 | Cylindrical Coil former | mecparts
 564 | Insulating spacer (no threads) | mecparts
 606 | Relay fixing plate | mecparts
-    | Microswitch mounting plate | Stephen Terrel
+    | Microswitch mounting plate for KW4A(S) or CamdenBoss CSM3510D microswitch | Stephen Terrel
