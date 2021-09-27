@@ -55,6 +55,7 @@ Part | Description
 B006 | [Sprocket for rubber track](modern_plastic)
 B015 | [Polygonal Bracket](modern_plastic)
 C962 | [Cam](modern_plastic)
+Joining Cube | [&frac12;" cube](Cube.stl)
 Arduino_mounting_plate | [Arduino Uno mounting plate](custom_parts)
 28BYJ-48_mounting_plate | [28BYJ-48 mounting plate](custom_parts)
 9V_battery_holder | [9V battery holder](custom_parts)
