@@ -7,9 +7,9 @@ holes should be drilled to size.
 The [cube with nuts](cube-with-nuts.stl) is designed to have nuts inserted into
 each face and fixed in place using a cyanoacrylate glue.
 
-Prefix | Description | By
+File | Description | By
 :--- | :--- | :---
-cube-with-holes.stl | Cube with holes that need drilling or tapping with a bolt | Ed Veiga
-cube-with-nuts.stl | Cube with cut-outs to glue nuts in | Ed Veiga
+[cube-with-holes.stl](cube-with-holes.stl) | Cube with holes that need drilling or tapping with a bolt | Ed Veiga
+[cube-with-nuts.stl](cube-with-nuts.stl) | Cube with cut-outs to glue nuts in | Ed Veiga
 
 ![Cubes](cubes.jpg)
