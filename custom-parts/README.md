@@ -4,6 +4,7 @@ Prefix | Description | By
 :--- | :--- | :---
 [<img src="cube0.5/images/cube-with-nuts.jpg" width="100">](cube0.5) | &frac12;" cubes | Ed Vegia
 [Differential](differential) | Differential cages | Steven Terrell
+[Collar pillow block](stl/collar-pillow-block.stl) | Collar pillow block | Steven Terrell
 [Arduino_mounting_plate](stl/Arduino_mounting_plate.stl) | An adapter plate for mounting an Arduino Uno ([SCAD](scad/Arduino_mounting_plate.scad), [DXF](dxf/Arduino_mounting_plate_Meccano_logo.dxf))| mecparts
 [28BYJ-48_mounting_plate](scad/28BYJ-48_mounting_plate.scad) | An adapter plate for mounting a 28BYJ-48 stepper motor ([SCAD](scad/28BYJ-48_mounting_plate.scad)) | mecparts
 [4x5 28BYJ-48_mounting_plate](stl/28BYJ-48_mounting_plate_4x5.stl) | A 4x5 adapter plate for mounting a 28BYJ-48 stepper motor | mecparts
