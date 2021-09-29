@@ -1,4 +1,4 @@
-A collection of &frac12;" cubes.
+# A collection of &frac12;" cubes.
 
 The [cube with holes](cube-with-holes.stl) is designed so that a bolt can be
 screwed into each face to tap the holes.  If plain axle holes are required, the

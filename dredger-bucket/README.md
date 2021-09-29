@@ -1,4 +1,4 @@
-A collection of dredger buckets (part 131).
+# A pair of dredger buckets (part 131).
 
 Image | Description | By
 :--- | :--- | :---
