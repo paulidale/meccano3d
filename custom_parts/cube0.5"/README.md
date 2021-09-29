@@ -9,7 +9,7 @@ each face and fixed in place using a cyanoacrylate glue.
 
 Image | File | Description | By
 :--- | :--- | :--- | :---
-<img src="cube-with-holes.png" width="100"> | [cube-with-holes.stl](cube-with-holes.stl) | Cube with holes that need drilling or tapping with a bolt | Ed Veiga
-<img src="cube-with-nuts.jpg" width="100"> | [cube-with-nuts.stl](cube-with-nuts.stl) | Cube with cut-outs to glue nuts in | Ed Veiga
+<img src="images/cube-with-holes.png" width="100"> | [cube-with-holes.stl](cube-with-holes.stl) | Cube with holes that need drilling or tapping with a bolt | Ed Veiga
+<img src="images/cube-with-nuts.jpg" width="100"> | [cube-with-nuts.stl](cube-with-nuts.stl) | Cube with cut-outs to glue nuts in | Ed Veiga
 
-![Cubes](cubes.jpg)
+![Cubes](images/cubes.jpg)
