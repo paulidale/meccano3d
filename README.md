@@ -14,5 +14,5 @@ gears | Assorted gears, large and fine tooth, bevels, multipurpose and rings
 junior | Plastic/Junior parts
 modern-plastic | Modern plastic parts
 [<img src="rack-and-pinion/images/2.png" width="100">](rack-and-pinion) | Rack and pinion
-tracks | Crawler track parts
+[<img src="tracks/pinned-track-link/images/all.jpg" width="100">](tracks) | Crawler track parts
 [<img src="wheel/road/images/187b.png" width="100">](wheel) | All manner of wheels -- road and flanged
