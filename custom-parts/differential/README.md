@@ -5,7 +5,7 @@ Prefix | Description | By
 [<img src="images/bevel1.jpg" width="100">](stl/bevel-cage.stl) | A [differential cage using bevels](stl/bevel-cage.stl) | Steven Terrell
 [<img src="images/contrate4.jpg" width="100">](stl/contrate-cage.stl) | A [differential cage using contrates](stl/contrate-cage.stl) | Steven Terrell
 
-<img src="images/both.jpg">
+<img src="images/both.jpg" width="500">
 
 ## Bevel Differential
 
