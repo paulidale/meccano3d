@@ -2,8 +2,8 @@ A collection of custom parts. Here you will find adapters for non Meccano parts 
 
 Prefix | Description | By
 :--- | :--- | :---
-[<img src="cube0.5/images/cube-with-nuts.jpg" width="100">](cube0.5) | &frac12;" cubes | Ed Vegia
-[<img src="differential/images/both.jpg" width="100">](differential) | Differential cages | Steven Terrell
+[<img src="cube0.5/images/cube-with-nuts.jpg" width="100">](cube0.5#readme) | &frac12;" cubes | Ed Vegia
+[<img src="differential/images/both.jpg" width="100">](differential#readme) | Differential cages | Steven Terrell
 [<img src="images/collar-pillow-block.png" width="100">](stl/collar-pillow-block.stl) | Collar pillow block | Steven Terrell
 [<img src="images/Arduino_mounting_plate.png" width="100">](stl/Arduino_mounting_plate.stl) | An adapter plate for mounting an Arduino Uno ([SCAD](scad/Arduino_mounting_plate.scad), [DXF](dxf/Arduino_mounting_plate_Meccano_logo.dxf))| mecparts
 [<img src="images/28BYJ-48_mounting_plate.png" width="100">](scad/28BYJ-48_mounting_plate.scad) | A parameterised adapter plate for mounting a 28BYJ-48 stepper motor ([SCAD](scad/28BYJ-48_mounting_plate.scad)) | mecparts
