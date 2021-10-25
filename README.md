@@ -16,3 +16,4 @@ Folder | Description
 [<img src="parts/rack-and-pinion/images/2.png" width="100">](parts/rack-and-pinion#readme) | Rack and pinion
 [<img src="parts/tracks/pinned-track-link/images/all.jpg" width="100">](parts/tracks#readme) | Crawler track parts
 [<img src="parts/wheel/road/images/187b.png" width="100">](parts/wheel#readme) | All manner of wheels -- road and flanged
+[<img src="parts/tyres/images/142a.png" width="100">](parts/tyres#readme) | Tyres for wheels
