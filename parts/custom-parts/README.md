@@ -12,4 +12,6 @@ Prefix | Description | By
 [<img src="images/28BYJ-48_mounting_plate_5x9.png" width="100">](stl/28BYJ-48_mounting_plate_5x9.stl) | A 5x9 adapter plate for mounting a 28BYJ-48 stepper motor | mecparts
 [<img src="images/9V_battery_holder_end_mounting.png" width="100">](stl/9V_battery_holder_end_mounting.stl) | Holder for 9V battery with end mounting holes | mecparts
 [<img src="images/9V_battery_holder_side_mounting.png" width="100">](stl/9V_battery_holder_side_mounting.stl) | Holder for 9V battery with side mounting holes | mecparts
+[<img src="images/sg90_slotted_strip.png" width="100">](stl/sg90_slotted_strip.stl) | Slotted arm for SG90 servo | [Dave Burrell](https://www.thingiverse.com/thing:5029828)
 
+[<img src="images/sg90_slotted_strip.jpg" width="100">](images/sg90_slotted_strip.jpg)
