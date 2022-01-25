@@ -2,6 +2,9 @@
 
 Parts for the UK Plastic Meccano live here.
 
+There are additional track components in the
+[pinned track section](../tracks/pinned-track-link#readme).
+
 Image | Part | Description | Creator
 ----- | ---- | ----------- | -------
 [<img src="images/P74_chain_link.jpg" width="100">](stl/P74_chain_link.stl) | P74 | Chain link [(SCAD)](scad/P74_chain_link.sca) | 
