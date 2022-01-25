@@ -12,7 +12,7 @@ Folder | Description
 [<img src="parts/gears/bevel/images/bevel-26.png" width="100">](parts/gears#readme) | Assorted gears, large and fine tooth, bevels, multipurpose and rings
 [<img src="parts/hinges/images/outer.png" width="100">](parts/hinges#readme) | Meccano hinge pieces sans hinge pin
 [<img src="parts/junior/images/P74_chain_link.jpg" width="100">](parts/junior#readme) | Plastic/Junior parts
-[modern-plastic](parts/modern-plastic#readme) | Modern plastic parts
+[<img src="parts/modern-plastic/images/B006_sprocket.png" width="100">](parts/modern-plastic#readme) | Modern plastic parts
 [<img src="parts/rack-and-pinion/images/2.png" width="100">](parts/rack-and-pinion#readme) | Rack and pinion
 [<img src="parts/tracks/pinned-track-link/images/all.jpg" width="100">](parts/tracks#readme) | Crawler track parts
 [<img src="parts/wheel/road/images/187b.png" width="100">](parts/wheel#readme) | All manner of wheels -- road and flanged
