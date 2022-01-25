@@ -2,8 +2,8 @@
 
 Parts for the UK Plastic Meccano live here.
 
-Image | Description | Creator
------ | ----------- | -------
+Image | Part | Description | Creator
+----- | ---- | ----------- | -------
 [<img src="images/P74_chain_link.jpg" width="100">](stl/P74_chain_link.stl) | P74 | Chain link [(SCAD)](scad/P74_chain_link.sca) | 
 [<img src="images/P74_chain_link.jpg" width="100">](stl/P74_chain_link.stl) | P74 | Chain link [(SCAD)](scad/P74_chain_link-M2-6.scad) | 
 [<img src="images/sprocket10T.png" width="100">](stl/sprocket10T.stl) | P84 | 10 tooth sprocket [(SCAD)](scad/sprocket10T.scad) | Luciano Bernardi
