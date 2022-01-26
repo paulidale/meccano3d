@@ -1,13 +1,13 @@
 A collection of bearings based around part 168.  A variety of diffent
 toothed discs are available allowing for both 16 and 38 DP drives.
 
-Part | Description | By
-:--- | :--- | :---
-Big Bearing Bottom | an extra large version of the roller bearing | Grendel
-Big Bearing Top | Top Section for the large roller bearing | Grendel
-Part 168 with 16DP 61T - Raft | a reproduction of part 168 with the large gear teeth | Grendel
-Part 168 with 16DP 61T | a reproduction of part 168 with the large gear teeth | Grendel
-Part 168 with 16DP 68T | a reproduction of part 168 with the large gear teeth (68 Tooth) | Grendel
-Part 168 with 38DP 171 tooth raft | a reproduction of part 168 with the standard gear teeth | Grendel
-Part 168 with 38DP 171 tooth | a reproduction of part 168 with the standard gear teeth | Grendel
-Collar Bearing Block | A part that uses a collar as an axle bearing | Stephen Terrell
+Image | Description | By
+----- | ----------- | --
+[<img src="images/big-bearing-bottom.png" width="100">](stl/big-bearing-bottom.stl) | Big Bearing Bottom | Grendel
+[<img src="images/big-bearing-top.png" width="100">](stl/big-bearing-top.stl) | Big Bearing Top | Grendel
+[<img src="images/part-168-with16DP-61T-raft.png" width="100">](stl/part-168-with16DP-61T-raft.stl) | Part 168 with 16DP 61T - Raft | Grendel
+[<img src="images/part-168-with16DP-61T.png" width="100">](stl/part-168-with16DP-61T.stl) | Part 168 with 16DP 61T | Grendel
+[<img src="images/part-168-with16DP-68T.png" width="100">](stl/part-168-with16DP-68T.stl) | Part 168 with 16DP 68T | Grendel
+[<img src="images/part-168-with38DP-171-Tooth-raft.png" width="100">](stl/part-168-with38DP-171-Tooth-raft.stl) | Part 168 with 38DP 171 tooth raft | Grendel
+[<img src="images/part-168-with38DP-171-Tooth.png" width="100">](stl/part-168-with38DP-171-Tooth.stl) | Part 168 with 38DP 171 tooth | Grendel
+[<img src="images/collar-pillow-block.png" width="100">](stl/collar-pillow-block.stl) | Collar Pillow Block | Stephen Terrell
