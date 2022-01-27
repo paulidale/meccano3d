@@ -47,8 +47,10 @@ Image | Teeth | Part | Description | Creator
 [<img src="images/part-31.png" width="100">](stl/part-31.stl) | [](stl/part-31.stl) | [31](stl/part-31.stl) | [Gear](stl/part-31.stl) | Grendel
 [<img src="images/38-t-for-splined-boss.png" width="100">](stl/38-t-for-splined-boss.stl) | [38](stl/38-t-for-splined-boss.stl) | [31](stl/38-t-for-splined-boss.stl) | [Gear](stl/38-t-for-splined-boss.stl) | Grendel
 [<img src="images/38t-hole.png" width="100">](stl/38t-hole.stl) | [38](stl/38t-hole.stl) | [31](stl/38t-hole.stl) | [Gear (standard)](stl/38t-hole.stl) | Grendel
+[<img src="images/38t-triflat.jpg" width="100">](stl/38t-triflat.stl) | [38](stl/38t-trifla.tstl) | [31](stl/38t-triflat.stl) | [Gear (standard)](stl/38t-triflat.stl) | Tony Kirk
 [<img src="images/39t-hole.png" width="100">](stl/39t-hole.stl) | [39](stl/39t-hole.stl) |  | [Gear](stl/39t-hole.stl) | Grendel
 [<img src="images/40t-hole.png" width="100">](stl/40t-hole.stl) | [40](stl/40t-hole.stl) | [31](stl/40t-hole.stl) | [Gear (standard, early obsolete)](stl/40t-hole.stl) | Grendel
+[<img src="images/40t-triflat.jpg" width="100">](stl/40t-triflat.stl) | [40](stl/40t-trifla.tstl) | [31](stl/40t-triflat.stl) | [Gear (standard)](stl/40t-triflat.stl) | Tony Kirk
 [<img src="images/41t-hole.png" width="100">](stl/41t-hole.stl) | [41](stl/41t-hole.stl) |  | [Gear](stl/41t-hole.stl) | Grendel
 [<img src="images/41t-hole2.png" width="100">](stl/41t-hole2.stl) | [41](stl/41t-hole2.stl) |  | [Gear](stl/41t-hole2.stl) | Grendel
 [<img src="images/42t-hole.png" width="100">](stl/42t-hole.stl) | [42](stl/42t-hole.stl) |  | [Gear](stl/42t-hole.stl) | Grendel
