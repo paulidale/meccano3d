@@ -7,6 +7,8 @@ Image | Part | Description | By
 [<img src="images/142a_bevelled.png" width="100">](stl/142a_bevelled.stl) | [142a](stl/142a_bevelled.stl) | Tyre for 2" pulley bevelled | [Dave Burrell](https://www.thingiverse.com/thing:5021493)
 [<img src="images/142b.png" width="100">](stl/142b.stl) | [142b](stl/142b.stl) | Tyre for 3" pulley | [PabloRomero87](https://www.thingiverse.com/thing:4935158)
 [<img src="images/142b_bevelled.png" width="100">](stl/142b_bevelled.stl) | [142b](stl/142b_bevelled.stl) | Tyre for 3" pulley bevelled | [Dave Burrell](https://www.thingiverse.com/thing:5021493)
+[<img src="images/142c_old_style.png" width="100">](stl/142c_old_style.stl) | [142c](stl/142c_old_style.stl) | Tyre for 1" pulley (old style) | [Dave Burrell](https://www.thingiverse.com/thing:5224838)
+
 [<img src="images/19b-1.jpg" width="100">](images/19b-1.jpg)
 [<img src="images/19b-2.jpg" width="100">](images/19b-2.jpg)
 [<img src="images/19b-3.jpg" width="100">](images/19b-3.jpg)
@@ -19,3 +21,4 @@ Image | Part | Description | By
 [<img src="images/side_view.gif" width="100">](images/side_view.gif)
 [<img src="images/bevelled.gif" width="100">](images/bevelled.gif)
 [<img src="images/treads.gif" width="100">](images/treads.gif)
+[<img src="images/142c_old_style.jpg" width="100">](images/142c_old_style.jpg)
