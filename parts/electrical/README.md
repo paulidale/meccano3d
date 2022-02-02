@@ -1,4 +1,10 @@
-# A collection of Elektrikit and Electronic set parts.
+# A collection of electrical related parts
+
+This includes:
+
+* Elektrikit
+* Electronic Control Set
+* Replacement motor mounts
 
 Image | Part | Description | By
 :--- | :--- | :--- | :---
