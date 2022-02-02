@@ -8,6 +8,7 @@ Prefix | Description | By
 [<img src="differential/images/both.jpg" width="100">](differential#readme) | Differential cages | Steven Terrell
 [<img src="images/collar-pillow-block.png" width="100">](stl/collar-pillow-block.stl) | Collar pillow block | Steven Terrell
 [<img src="images/Arduino_mounting_plate.png" width="100">](stl/Arduino_mounting_plate.stl) | An adapter plate for mounting an Arduino Uno ([SCAD](scad/Arduino_mounting_plate.scad), [DXF](dxf/Arduino_mounting_plate_Meccano_logo.dxf))| mecparts
+[<img src="images/stereopi_v1.png" width="100">](stl/stereopi_v1.stl) | Raspberry Pi mounting plate (version 1) | [Dave Burrell](https://www.thingiverse.com/thing:5217911)
 [<img src="images/stereopi_mount.png" width="100">](stl/stereopi_mount.stl) | Raspberry Pi mounting plate | [Dave Burrell](https://www.thingiverse.com/thing:5207817)
 [<img src="images/stereopi_holey_mount.png" width="100">](stl/stereopi_holey_mount.stl) | Raspberry Pi mounting plate (end holes) | [Dave Burrell](https://www.thingiverse.com/thing:5207817)
 [<img src="images/28BYJ-48_mounting_plate.png" width="100">](scad/28BYJ-48_mounting_plate.scad) | A parameterised adapter plate for mounting a 28BYJ-48 stepper motor ([SCAD](scad/28BYJ-48_mounting_plate.scad)) | mecparts
