@@ -1,4 +1,6 @@
-A collection of custom parts. Here you will find adapters for non Meccano parts and new takes on existing Meccano parts.
+# A collection of custom parts.
+
+Here you will find adapters for non Meccano parts and new takes on existing Meccano parts.
 
 Prefix | Description | By
 :--- | :--- | :---
@@ -13,5 +15,20 @@ Prefix | Description | By
 [<img src="images/9V_battery_holder_end_mounting.png" width="100">](stl/9V_battery_holder_end_mounting.stl) | Holder for 9V battery with end mounting holes | mecparts
 [<img src="images/9V_battery_holder_side_mounting.png" width="100">](stl/9V_battery_holder_side_mounting.stl) | Holder for 9V battery with side mounting holes | mecparts
 [<img src="images/sg90_slotted_strip.png" width="100">](stl/sg90_slotted_strip.stl) | Slotted arm for SG90 servo | [Dave Burrell](https://www.thingiverse.com/thing:5029828)
+[<img src="images/sg90_slotted_strip_1_2.jpg" width="100">](stl/sg90_slotted_strip_1_2.stl) | Slotted arm for SG90 servo | [Dave Burrell](https://www.thingiverse.com/thing:5029828)
+[<img src="images/sg90_locking_slotted_strip.png" width="100">](stl/sg90_locking_slotted_strip.stl) | Locking slotted arm for SG90 servo | [Dave Burrell](https://www.thingiverse.com/thing:5226420)
+[<img src="images/bugatti_t35_radiator_model33.png" width="100">](stl/bugatti_t35_radiator_model33.stl) | Bugatti T35 Radiator for Meccano model #33 | [Dave Burrell](https://www.thingiverse.com/thing:5087612)
+
+## SG90 Slotted Strip
 
 [<img src="images/sg90_slotted_strip.jpg" width="100">](images/sg90_slotted_strip.jpg)
+
+## SG90 Locking Slotted Strip
+
+[<img src="images/sg90_locking_slotted_strip1.jpg" width="100">](images/sg90_locking_slotted_strip1.jpg)
+[<img src="images/sg90_locking_slotted_strip2.jpg" width="100">](images/sg90_locking_slotted_strip2.jpg)
+[<img src="images/sg90_locking_slotted_strip3.jpg" width="100">](images/sg90_locking_slotted_strip3.jpg)
+
+## Bugatti T35 Radiator for Meccano model #33
+
+[<img src="images/bugatti_t35_radiator_model33.jpg" width="100">](images/bugatti_t35_radiator_model33.jpg)
