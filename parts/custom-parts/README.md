@@ -19,10 +19,6 @@ Prefix | Description | By
 [<img src="images/sg90_locking_slotted_strip.png" width="100">](stl/sg90_locking_slotted_strip.stl) | Locking slotted arm for SG90 servo | [Dave Burrell](https://www.thingiverse.com/thing:5226420)
 [<img src="images/bugatti_t35_radiator_model33.png" width="100">](stl/bugatti_t35_radiator_model33.stl) | Bugatti T35 Radiator for Meccano model #33 | [Dave Burrell](https://www.thingiverse.com/thing:5087612)
 
-## SG90 Slotted Strip
-
-[<img src="images/sg90_slotted_strip.jpg" width="100">](images/sg90_slotted_strip.jpg)
-
 ## SG90 Locking Slotted Strip
 
 [<img src="images/sg90_locking_slotted_strip1.jpg" width="100">](images/sg90_locking_slotted_strip1.jpg)
