@@ -7,6 +7,7 @@ Prefix | Description | By
 [<img src="cube0.5/images/cube-with-nuts.jpg" width="100">](cube0.5#readme) | &frac12;" cubes | Ed Vegia
 [<img src="differential/images/both.jpg" width="100">](differential#readme) | Differential cages | Steven Terrell
 [<img src="images/collar-pillow-block.png" width="100">](stl/collar-pillow-block.stl) | Collar pillow block | Steven Terrell
+[<img src="images/144c_grubbed_dog_clutch.png" width="100">](stl/144c_grubbed_dog_clutch.stl) | 144c Grubbed triflat dog clutch | [Dave Burrell](https://www.thingiverse.com/thing:5234068)
 [<img src="images/Arduino_mounting_plate.png" width="100">](stl/Arduino_mounting_plate.stl) | An adapter plate for mounting an Arduino Uno ([SCAD](scad/Arduino_mounting_plate.scad), [DXF](dxf/Arduino_mounting_plate_Meccano_logo.dxf))| mecparts
 [<img src="images/stereopi_v1.png" width="100">](stl/stereopi_v1.stl) | Raspberry Pi mounting plate (version 1) | [Dave Burrell](https://www.thingiverse.com/thing:5217911)
 [<img src="images/stereopi_mount.png" width="100">](stl/stereopi_mount.stl) | Raspberry Pi mounting plate | [Dave Burrell](https://www.thingiverse.com/thing:5207817)
@@ -21,6 +22,12 @@ Prefix | Description | By
 [<img src="images/sg90_slotted_strip_1_2.jpg" width="100">](stl/sg90_slotted_strip_1_2.stl) | Slotted arm for SG90 servo | [Dave Burrell](https://www.thingiverse.com/thing:5029828)
 [<img src="images/sg90_locking_slotted_strip.png" width="100">](stl/sg90_locking_slotted_strip.stl) | Locking slotted arm for SG90 servo | [Dave Burrell](https://www.thingiverse.com/thing:5226420)
 [<img src="images/bugatti_t35_radiator_model33.png" width="100">](stl/bugatti_t35_radiator_model33.stl) | Bugatti T35 Radiator for Meccano model #33 | [Dave Burrell](https://www.thingiverse.com/thing:5087612)
+
+## Grubbed tri-flat dog clutch
+
+[<img src="images/144c_flush.jpg" width="100">](images/144c_flush.jpg)
+[<img src="images/144c_grub.jpg" width="100">](images/144c_grub.jpg)
+[<img src="images/144c_wheel.jpg" width="100">](images/144c_wheel.jpg)
 
 ## Raspberry Pi Mounting Plate
 
