@@ -13,6 +13,7 @@ Folder | Description
 [<img src="parts/hinges/images/outer.png" width="100">](parts/hinges#readme) | Meccano hinge pieces sans hinge pin
 [<img src="parts/junior/images/P74_chain_link.jpg" width="100">](parts/junior#readme) | Plastic/Junior parts
 [<img src="parts/modern-plastic/images/B006_sprocket.png" width="100">](parts/modern-plastic#readme) | Modern plastic parts
+[<img src="parts/multikit/images/multikit-seat.png" width="100">](parts/multikit#readme) | Multikit parts
 [<img src="parts/rack-and-pinion/images/2.png" width="100">](parts/rack-and-pinion#readme) | Rack and pinion
 [<img src="parts/tracks/pinned-track-link/images/all.jpg" width="100">](parts/tracks#readme) | Crawler track parts
 [<img src="parts/wheel/road/images/187b.png" width="100">](parts/wheel#readme) | All manner of wheels -- road and flanged
