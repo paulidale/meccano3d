@@ -15,6 +15,6 @@ Folder | Description
 [<img src="parts/modern-plastic/images/B006_sprocket.png" width="100">](parts/modern-plastic#readme) | Modern plastic parts
 [<img src="parts/multikit/images/multikit-seat.png" width="100">](parts/multikit#readme) | Multikit parts
 [<img src="parts/rack-and-pinion/images/2.png" width="100">](parts/rack-and-pinion#readme) | Rack and pinion
-[<img src="parts/tracks/pinned-track-link/images/all.jpg" width="100">](parts/tracks#readme) | Crawler track parts
+[<img src="parts/tracks/images/d320-1.jpg" width="100">](parts/tracks#readme) | Crawler track parts
 [<img src="parts/wheel/road/images/187b.png" width="100">](parts/wheel#readme) | All manner of wheels -- road and flanged
 [<img src="parts/tyres/images/142b.png" width="100">](parts/tyres#readme) | Tyres for wheels
