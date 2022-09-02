@@ -5,6 +5,7 @@
 Folder | Description
 ------ | -----------
 [<img src="parts/bearings/images/part-168-with16DP-61T-raft.png" width="100">](parts/bearings#readme) | Ball bearings based around part 168
+[<img src="parts/brassware/images/63-coupling.png" width="100">](parts/brassware#readme) | Brassware substitutes
 [<img src="parts/crane-sprocket/images/meccano-large-track-sprocket.png" width="100">](parts/crane-sprocket#readme) | Sprockets and idlers for large track system
 [<img src="parts/custom-parts/differential/images/bevel1.jpg" width="100">](parts/custom-parts#readme) | Adapters for non Meccano parts and new spins on existing Meccano parts
 [<img src="parts/dredger-bucket/images/rect.png" width="100">](parts/dredger-bucket#readme) | Two different forms of dredger bucket

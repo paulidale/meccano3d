@@ -12,8 +12,6 @@ Prefix | Description | By
 [<img src="images/9V_battery_holder_side_mounting.png" width="100">](stl/9V_battery_holder_side_mounting.stl) | Holder for 9V battery with side mounting holes | mecparts
 [<img src="images/bugatti_t35_radiator_model33.png" width="100">](stl/bugatti_t35_radiator_model33.stl) | Bugatti T35 Radiator for Meccano model #33 | [Dave Burrell](https://www.thingiverse.com/thing:5087612)
 [<img src="images/One_Inch_Motor_to_Meccano_Brackett.png" width="100">](stl/One_Inch_Motor_to_Meccano_Brackett_.stl) | Mounting plate for 1" diameter motors | [Dave Burrell](https://www.thingiverse.com/thing:5361324)
-[<img src="images/center_piece.png" width="100">](stl/center_piece.stl) | Friction stop for plastic collar |
-[<img src="images/center_piece_collar.png" width="100">](stl/center_piece_collar.stl) | Plastic collar |
 
 ## Microcontroller Mounts
 
