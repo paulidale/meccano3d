@@ -10,7 +10,7 @@ Folder | Description
 [<img src="parts/custom-parts/differential/images/bevel1.jpg" width="100">](parts/custom-parts#readme) | Adapters for non Meccano parts and new spins on existing Meccano parts
 [<img src="parts/dredger-bucket/images/rect.png" width="100">](parts/dredger-bucket#readme) | Two different forms of dredger bucket
 [<img src="parts/electrical/images/520.png" width="100">](parts/electrical#readme) | Elektrikit, Electronic Control Set and Motor replacement parts
-[<img src="parts/gears/bevel/images/bevel-26.png" width="100">](parts/gears#readme) | Assorted gears, large and fine tooth, bevels, multipurpose, rings and other brass substitutes
+[<img src="parts/gears/bevel/images/bevel-26.png" width="100">](parts/gears#readme) | Assorted gears, large and fine tooth, bevels, helical, multipurpose, rings and other brass substitutes
 [<img src="parts/hinges/images/outer.png" width="100">](parts/hinges#readme) | Meccano hinge pieces sans hinge pin
 [<img src="parts/junior/images/P74_chain_link.jpg" width="100">](parts/junior#readme) | Plastic/Junior parts
 [<img src="parts/modern-plastic/images/B006_sprocket.png" width="100">](parts/modern-plastic#readme) | Modern plastic parts
