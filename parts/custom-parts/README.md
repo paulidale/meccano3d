@@ -13,7 +13,7 @@ Prefix | Description | By
 [<img src="images/bugatti_t35_radiator_model33.png" width="100">](stl/bugatti_t35_radiator_model33.stl) | Bugatti T35 Radiator for Meccano model #33 | [Dave Burrell](https://www.thingiverse.com/thing:5087612)
 [<img src="images/One_Inch_Motor_to_Meccano_Brackett.png" width="100">](stl/One_Inch_Motor_to_Meccano_Brackett_.stl) | Mounting plate for 1" diameter motors | [Dave Burrell](https://www.thingiverse.com/thing:5361324)
 
-## Microcontroller Mounts
+## Microcontroller Mounts & Accessories
 
 Prefix | Description | By
 :--- | :--- | :---
@@ -23,8 +23,19 @@ Prefix | Description | By
 [<img src="images/stereopi_holey_mount.png" width="100">](stl/stereopi_holey_mount.stl) | Raspberry Pi mounting plate (end holes) | [Dave Burrell](https://www.thingiverse.com/thing:5207817)
 [<img src="images/compact_esp32s_38_pin.png" width="100">](stl/compact_esp32s_38_pin.stl) | Esp-32S Mounting Case Meccano Compatible | [Dave Burrell](https://www.thingiverse.com/thing:5330188)
 [<img src="images/compact_esp32s_38_pin_4_hole_mount.png" width="100">](stl/compact_esp32s_38_pin_4_hole_mount.stl) | Esp-32S Mounting Case Meccano Compatible | [Dave Burrell](https://www.thingiverse.com/thing:5330188)
+[<img src="images/PWMcase.png" width="100">](stl/PWMcase.stl) | PWM module mounting box (sizes vary so it might not fit yours) | Edmundo Veiga
 
 [<img src="images/stereopi_mount.jpg" width="100">](images/stereopi_mount.jpg)
+
+## N20 Motor Mounts
+
+These may not work in case any gear of the gear train of gear box of the motor
+protrudes beyond the face plate of the gear box.
+
+Prefix | Description | By
+:--- | :--- | :---
+[<img src="images/N20clip.png" width="100">](stl/N20clip.stl) | N20 motor mount | Edmundo Veiga
+[<img src="images/N20Fclip.png" width="100">](stl/N20Fclip.stl) | N20 motor mount | Edmundo Veiga
 
 ## Servo/Stepper Accessories
 
