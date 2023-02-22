@@ -6,11 +6,13 @@ Prefix | Description | By
 :--- | :--- | :---
 [<img src="cube0.5/images/cube-with-nuts.jpg" width="100">](cube0.5#readme) | &frac12;" cubes | Ed Vegia
 [<img src="differential/images/both.jpg" width="100">](differential#readme) | Differential cages | Steven Terrell
+[<img src="images/damper.png" width="100">](stl/damper.stl) | Anti-vibration damper | [Dave Burrell](https://www.thingiverse.com/thing:5869557)
 [<img src="images/collar-pillow-block.png" width="100">](stl/collar-pillow-block.stl) | Collar pillow block | Steven Terrell
 [<img src="images/144c_grubbed_dog_clutch.png" width="100">](stl/144c_grubbed_dog_clutch.stl) | 144c Grubbed triflat dog clutch | [Dave Burrell](https://www.thingiverse.com/thing:5234068)
 [<img src="images/9V_battery_holder_end_mounting.png" width="100">](stl/9V_battery_holder_end_mounting.stl) | Holder for 9V battery with end mounting holes | mecparts
 [<img src="images/9V_battery_holder_side_mounting.png" width="100">](stl/9V_battery_holder_side_mounting.stl) | Holder for 9V battery with side mounting holes | mecparts
 [<img src="images/bugatti_t35_radiator_model33.png" width="100">](stl/bugatti_t35_radiator_model33.stl) | Bugatti T35 Radiator for Meccano model #33 | [Dave Burrell](https://www.thingiverse.com/thing:5087612)
+[<img src="images/One_Inch_Motor_to_Meccano_Brackett.png" width="100">](stl/One_Inch_Motor_to_Meccano_Brackett_.stl) | Mounting plate for 1" diameter motors | [Dave Burrell](https://www.thingiverse.com/thing:5361324)
 [<img src="images/One_Inch_Motor_to_Meccano_Brackett.png" width="100">](stl/One_Inch_Motor_to_Meccano_Brackett_.stl) | Mounting plate for 1" diameter motors | [Dave Burrell](https://www.thingiverse.com/thing:5361324)
 
 ## Microcontroller Mounts & Accessories
