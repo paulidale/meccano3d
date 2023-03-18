@@ -19,3 +19,4 @@ Folder | Description
 [<img src="parts/tracks/images/d320-1.jpg" width="100">](parts/tracks#readme) | Crawler track parts
 [<img src="parts/wheel/road/images/187b.png" width="100">](parts/wheel#readme) | All manner of wheels -- road and flanged
 [<img src="parts/tyres/images/142b.png" width="100">](parts/tyres#readme) | Tyres for wheels
+[<img src="parts/wheel/artillery_wheel_76mm/images/with_fix.jpg" width="100">](parts/wheel/artillery_wheel_76mm) | 19a Spoked Wheel 3" artillery wheel with fix/without fix
