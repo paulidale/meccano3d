@@ -9,4 +9,5 @@ Kind | Description | Creator
 [<img src="maker/OpenSCAD.jpg" width="100">](maker#readme) | [DXF and SCAD files for producing gears](maker#readme), no directly printable designs
 [<img src="multipurpose/images/7t-14dp-gear3.png" width="100">](multipurpose#readme) | [Multipurpose Special tooth form 14 DP gears](multipurpose#readme) allowing mesh at any angle
 [<img src="standard/images/part-31-grub.png" width="100">](standard#readme) | [Meccano standard 38 DP gears and pinions](standard#readme)
+[<img src="gear-ring/images/180.png" width="100">](gear-ring#readme) | [Gear rings](gear-ring#readme)
 [<img src="images/57t-ring-for-FKM.png" width="100">](stl/57t-ring-for-FKM.stl) | [57 tooth ring for French Knitting Machine](stl/57t-ring-for-FKM.stl) ([SCAD](scad/57t-ring-for-FKM.scad)) | John Stark
