@@ -40,7 +40,7 @@ Image | Teeth | Part | Description | Creator
 [<img src="images/33t-hole.png" width="100">](stl/33t-hole.stl) | [33](stl/33t-hole.stl) |  | [Pinion](stl/33t-hole.stl) | Grendel
 [<img src="images/34t-hole.png" width="100">](stl/34t-hole.stl) | [34](stl/34t-hole.stl) |  | [Pinion](stl/34t-hole.stl) | Grendel
 [<img src="images/35t-hole.png" width="100">](stl/35t-hole.stl) | [35](stl/35t-hole.stl) |  | [Pinion](stl/35t-hole.stl) | Grendel
-[<img src="images/36t-hole.png" width="100">](stl/36t-hole.stl) | [36](stl/36t-hole.stl) | [27c](stl/36t-hole.stl) | [Gear](stl/36t-hole.stl) | Grendel
+[<img src="images/36t-hole.png" width="100">](stl/36t-hole.stl) | [36](stl/36t-hole.stl) |  | [Gear](stl/36t-hole.stl) | Grendel
 [<img src="images/37t-hole.png" width="100">](stl/37t-hole.stl) | [37](stl/37t-hole.stl) | | [Gear](stl/37t-hole.stl) | Grendel
 [<img src="images/part-31-grub.png" width="100">](stl/part-31-grub.stl) | [](stl/part-31-grub.stl) | [31](stl/part-31-grub.stl) | [Gear grub screw](stl/part-31-grub.stl) | Grendel
 [<img src="images/part-31-tri-axle.png" width="100">](stl/part-31-tri-axle.stl) | [](stl/part-31-tri-axle.stl) | [31](stl/part-31-tri-axle.stl) | [Gear tri-flat](stl/part-31-tri-axle.stl) | Grendel
@@ -66,3 +66,6 @@ Image | Teeth | Part | Description | Creator
 [<img src="images/50tooth-hole.png" width="100">](stl/50tooth-hole.stl) | [50](stl/50tooth-hole.stl) | [27](stl/50tooth-hole.stl) | [Gear (standard)](stl/50tooth-hole.stl) | Grendel
 [<img src="images/50tooth-slot-for-nut.png" width="100">](stl/50tooth-slot-for-nut.stl) | [50](stl/50tooth-slot-for-nut.stl) | [27](stl/50tooth-slot-for-nut.stl) | [Gear boss + nuts](stl/50tooth-slot-for-nut.stl) | Grendel
 [<img src="images/50tooth-tri.png" width="100">](stl/50tooth-tri.stl) | [50](stl/50tooth-tri.stl) | [](stl/50tooth-tri.stl) | [Gear tri-flat](stl/50tooth-tri.stl) | Grendel
+[<img src="images/57t.png" width="100">](stl/57t.stl) | [57](stl/57t.stl) | [27a](stl/57t.stl) | [Gear (standard)](stl/57t.stl) | [Dave Burrell](https://www.thingiverse.com/thing:6082009)
+[<img src="images/57t-thick-boss.png" width="100">](stl/57t-thick-boss.stl) | [57](stl/57t-thick-boss.stl) |  | [Gear thick boss](stl/57t-thick-boss.stl) | [Dave Burrell](https://www.thingiverse.com/thing:6082009)
+[<img src="images/133t.png" width="100">](stl/133t.stl) | [133](stl/133t.stl) | [27b](stl/133t.stl) | [Gear (standard)](stl/133t.stl) | [Dave Burrell](https://www.thingiverse.com/thing:6083301)
