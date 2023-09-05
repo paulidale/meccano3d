@@ -4,7 +4,7 @@ Here you will find adapters for non Meccano parts and new takes on existing Mecc
 
 Prefix | Description | By
 :--- | :--- | :---
-[<img src="cube0.5/images/cube-with-nuts.jpg" width="100">](cube0.5#readme) | &frac12;" cubes | Ed Vegia
+[<img src="cube0.5/images/cube-with-nuts.jpg" width="100">](cube0.5#readme) | &frac12;" cubes | Edmundo Vegia
 [<img src="differential/images/both.jpg" width="100">](differential#readme) | Differential cages | Steven Terrell
 [<img src="images/damper.png" width="100">](stl/damper.stl) | Anti-vibration damper | [Dave Burrell](https://www.thingiverse.com/thing:5869557)
 [<img src="images/collar-pillow-block.png" width="100">](stl/collar-pillow-block.stl) | Collar pillow block | Steven Terrell
@@ -14,6 +14,11 @@ Prefix | Description | By
 [<img src="images/bugatti_t35_radiator_model33.png" width="100">](stl/bugatti_t35_radiator_model33.stl) | Bugatti T35 Radiator for Meccano model #33 | [Dave Burrell](https://www.thingiverse.com/thing:5087612)
 [<img src="images/One_Inch_Motor_to_Meccano_Brackett.png" width="100">](stl/One_Inch_Motor_to_Meccano_Brackett_.stl) | Mounting plate for 1" diameter motors | [Dave Burrell](https://www.thingiverse.com/thing:5361324)
 [<img src="images/One_Inch_Motor_to_Meccano_Brackett.png" width="100">](stl/One_Inch_Motor_to_Meccano_Brackett_.stl) | Mounting plate for 1" diameter motors | [Dave Burrell](https://www.thingiverse.com/thing:5361324)
+[<img src="images/dome.jpg" width="100">](stl/dome.stl) | Train boiler dome 5&#189;" | Edmundo Vegia
+
+[<img src="images/dome-dim.jpg" width="100">](images/dome-dim.jpg)
+[<img src="images/dome-model.jpg" width="100">](images/dome-model.jpg)
+
 
 ## Microcontroller Mounts & Accessories
 
