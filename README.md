@@ -17,6 +17,6 @@ Folder | Description
 [<img src="parts/multikit/images/multikit-seat.png" width="100">](parts/multikit#readme) | Multikit parts
 [<img src="parts/rack-and-pinion/images/2.png" width="100">](parts/rack-and-pinion#readme) | Rack and pinion
 [<img src="parts/tracks/images/d320-1.jpg" width="100">](parts/tracks#readme) | Crawler track parts
-[<img src="parts/wheel/road/images/187b.png" width="100">](parts/wheel#readme) | All manner of wheels -- road and flanged
+[<img src="parts/wheel/road/images/187b.png" width="100">](parts/wheel#readme) | All manner of wheels -- artillery, road and flanged
 [<img src="parts/tyres/images/142b.png" width="100">](parts/tyres#readme) | Tyres for wheels
 [<img src="parts/king-ghidorah.jpg" width="100">](parts/wheel/artillery_wheel_76mm) | 19a Spoked Wheel 3" artillery wheel with fix/without fix
