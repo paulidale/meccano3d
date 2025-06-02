@@ -13,6 +13,7 @@ Image | Part | Description | By
 [<img src="images/511.png" width="100">](stl/511_insulating_flat_plate_5x5.stl) | [511](stl/511_insulating_flat_plate_5x5.stl) | Insulating flat plate 5x5 | mecparts
 [<img src="images/520.png" width="100">](stl/520_rectangular_coil_former.stl) | [520](stl/520_rectangular_coil_former.stl) | Rectangular Coil former [(SCAD)](scad/520_rectangular_coil_former.scad) | mecparts
 [<img src="images/522.png" width="100">](stl/522_cylindrical_coil_former.stl) | [522](stl/522_cylindrical_coil_former.stl) | Cylindrical Coil former [(SCAD)](scad/522_cylindrical_coil_former.scad) | mecparts
+[<img src="images/538.png" width="100">](stl/538_magnet_holder.stl) | [538](stl/538_magnet_holder.stl) | Magnet holder (set screw hole must be tapped with 5/32-32 BSW tap) [(FreeCAD)](freecad/538_magnet_holder.FCStd) | aliotard
 [<img src="images/564.png" width="100">](stl/564_insulated_spacer_no_threads.stl) | [564](stl/564_insulated_spacer_no_threads.stl) | Insulating spacer (no threads) [(SCAD)](scad/564_insulated_spacer.scad) | mecparts
 [<img src="images/600_motor_case_a.png" width="100">](stl/600_motor_case_a.stl) | [600](stl/600_motor_case_a.stl) | Motor case - end | [Dave Burrell](https://www.thingiverse.com/thing:5187950/files)
 [<img src="images/600_motor_case_b.png" width="100">](stl/600_motor_case_b.stl) | [600](stl/600_motor_case_b.stl) | Motor case - body | [Dave Burrell](https://www.thingiverse.com/thing:5187950/files)
