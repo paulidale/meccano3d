@@ -9,8 +9,14 @@ This includes:
 Image | Part | Description | By
 :--- | :--- | :--- | :---
 &nbsp; | [5xx](scad/5xx_insulating_plates.scad) | Insulating flat plate any size [(SCAD)](scad/5xx_insulating_plates.scad) | mecparts
+[<img src="images/501.png" width="100">](stl/501_insulating_strip_11_holes.stl) | [501](stl/501_insulating_strip_11_holes.stl) | Insulating strip 11 holes | aliotard
+[<img src="images/502.png" width="100">](stl/502_insulating_strip_5_holes.stl) | [502](stl/502_insulating_strip_5_holes.stl) | Insulating strip 5 holes | aliotard
+[<img src="images/503.png" width="100">](stl/503_insulating_strip_3_holes.stl) | [503](stl/503_insulating_strip_3_holes.stl) | Insulating strip 3 holes | aliotard
 [<img src="images/510.png" width="100">](stl/510_insulating_flat_plate_5x11.stl) | [510](stl/510_insulating_flat_plate_5x11.stl) | Insulating flat plate 5x11 | mecparts
 [<img src="images/511.png" width="100">](stl/511_insulating_flat_plate_5x5.stl) | [511](stl/511_insulating_flat_plate_5x5.stl) | Insulating flat plate 5x5 | mecparts
+[<img src="images/513.png" width="100">](stl/513_insulating_fish_plate.stl) | [513](stl/513_insulating_fish_plate.stl) | Insulating fish plate [(FreeCAD)](freecad/513_insulating_fish_plate.FCStd) | aliotard
+[<img src="images/514.png" width="100">](stl/514_insulating_bush_wheel_8_holes.stl) | [514](stl/514_insulating_bush_wheel_8_holes.stl) | Insulating bush wheel 8 holes (grub screw hole must be tapped with 5/32-32 BSW tap) [(FreeCAD)](freecad/514_insulating_bush_wheel_8_holes.FCStd) | aliotard
+[<img src="images/516.png" width="100">](stl/516_insulating_bush_wheel_6_holes.stl) | [516](stl/516_insulating_bush_wheel_6_holes.stl) | Insulating bush wheel 6 holes (grub screw hole must be tapped with 5/32-32 BSW tap) [(FreeCAD)](freecad/516_insulating_bush_wheel_6_holes.FCStd) | aliotard
 [<img src="images/520.png" width="100">](stl/520_rectangular_coil_former.stl) | [520](stl/520_rectangular_coil_former.stl) | Rectangular Coil former [(SCAD)](scad/520_rectangular_coil_former.scad) | mecparts
 [<img src="images/522.png" width="100">](stl/522_cylindrical_coil_former.stl) | [522](stl/522_cylindrical_coil_former.stl) | Cylindrical Coil former [(SCAD)](scad/522_cylindrical_coil_former.scad) | mecparts
 [<img src="images/538.png" width="100">](stl/538_magnet_holder.stl) | [538](stl/538_magnet_holder.stl) | Magnet holder (set screw hole must be tapped with 5/32-32 BSW tap) [(FreeCAD)](freecad/538_magnet_holder.FCStd) | aliotard

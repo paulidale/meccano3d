@@ -58,9 +58,15 @@ module flat_plate(thickness=0.100*inch,x_holes=7,y_holes=5,elongate_end_holes=fa
   }
 }
 
+//plates:
 //flat_plate(thickness,2,2); // 505r
 //flat_plate(thickness,5,2); // 507t
 flat_plate(thickness,11,5); // 510
 //flat_plate(thickness,5,5); // 511
 //flat_plate(thickness,6,3); // 512b
 //flat_plate(thickness,7,5); // 512c
+
+//strips:
+//flat_plate(thickness,1,11); // 501
+//flat_plate(thickness,1,5); // 502
+//flat_plate(thickness,1,3); // 503
